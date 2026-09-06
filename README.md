@@ -29,7 +29,8 @@ Este projeto replica exatamente esse processo no Cisco Packet Tracer: convertemo
 
 ### Evidências do Laboratório
 
-<img width="457" height="355" alt="image" src="https://github.com/user-attachments/assets/425b7076-977d-4ec4-a4c0-c78d0a9d9ad1" />
+<img width="461" height="329" alt="image" src="https://github.com/user-attachments/assets/d453f931-69f2-44c2-88d0-6b5983a022c9" />
+
 
 ---
 
