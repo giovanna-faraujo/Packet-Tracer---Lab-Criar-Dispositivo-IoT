@@ -4,7 +4,7 @@
 
 ---
 
-## 1. O que é este projeto? (Explicado de forma simples)
+## 1. O que é este projeto?
 Imagine que você comprou componentes eletrônicos avulsos para montar um sensor ou alarme de segurança. Ao tirar as peças da caixa, ele ainda não funciona: você precisa colocar tudo em um invólucro identificado, instalar uma placa com antena sem fio para conectar ao roteador da casa e garantir que ele receba um endereço de identificação exclusivo (o IP). 
 
 Depois de testar a resposta do aparelho por um tablet, você salva essa receita completa em um catálogo técnico para não precisar refazer o trabalho manual do zero nas próximas instalações. 
