@@ -1,4 +1,4 @@
-# Criação, Conexão Sem Fio e Padronização de Dispositivo IoT no Cisco Packet Tracer
+# Criação e conexão sem Fio para dispositivo IoT no Cisco Packet Tracer
 
 **Resumo Rápido:** Construção e integração prática de uma câmera de segurança sem fio customizada em ambiente simulado, com foco no mapeamento seguro de ativos IoT e padronização como template reutilizável.
 
